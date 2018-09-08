@@ -5,3 +5,4 @@ green
 yellow
 black
 These are the colors of webpage
+white
